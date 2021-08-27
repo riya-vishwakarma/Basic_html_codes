@@ -1,2 +1,2 @@
-# Basic_html_codes
-Basic html codes for beginners.
+# Web development
+Some of the webpage effects using html,css and javascript
